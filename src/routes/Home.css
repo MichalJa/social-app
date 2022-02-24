@@ -1,0 +1,15 @@
+.homeDisplay {
+    display: flex;
+}
+
+.homeNav {
+    border-left: solid 1px;
+    padding: 1rem;
+    order: 2;
+    flex-grow: 0.5;
+}
+
+.homeMain {
+    flex-grow: 9.5;
+    padding: 1rem;
+}
